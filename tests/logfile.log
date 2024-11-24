@@ -1,0 +1,32 @@
+2024-11-24 12:34:56,585 :INFO : test_e2e : getting all the card titles
+2024-11-24 12:34:56,807 :INFO : test_e2e : Entering country name as tur
+2024-11-24 12:35:01,993 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-24 12:36:28,410 :INFO : test_formSubmission : first name is Burki
+2024-11-24 12:36:28,872 :INFO : test_formSubmission : first name is Eylem
+2024-11-24 12:36:28,872 :INFO : test_formSubmission : first name is Eylem
+2024-11-24 12:36:34,737 :INFO : test_e2e : getting all the card titles
+2024-11-24 12:36:34,905 :INFO : test_e2e : Entering country name as tur
+2024-11-24 12:36:40,154 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-24 12:38:51,604 :INFO : test_formSubmission : first name is Burki
+2024-11-24 12:38:52,069 :INFO : test_formSubmission : first name is Eylem
+2024-11-24 12:38:52,069 :INFO : test_formSubmission : first name is Eylem
+2024-11-24 12:38:57,749 :INFO : test_e2e : getting all the card titles
+2024-11-24 12:38:57,904 :INFO : test_e2e : Entering country name as tur
+2024-11-24 12:39:03,088 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-24 12:41:02,857 :INFO : test_formSubmission : first name is Burki
+2024-11-24 12:41:03,350 :INFO : test_formSubmission : first name is Eylem
+2024-11-24 12:41:03,350 :INFO : test_formSubmission : first name is Eylem
+2024-11-24 12:41:09,090 :INFO : test_e2e : getting all the card titles
+2024-11-24 12:41:09,242 :INFO : test_e2e : Entering country name as tur
+2024-11-24 12:41:14,459 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-11-24 12:51:31,971 :INFO : test_formSubmission : first name is Burki
+2024-11-24 12:51:32,441 :INFO : test_formSubmission : first name is Eylem
+2024-11-24 12:51:32,441 :INFO : test_formSubmission : first name is Eylem
+2024-11-24 12:51:38,316 :INFO : test_e2e : getting all the card titles
+2024-11-24 12:51:38,455 :INFO : test_e2e : Entering country name as tur
+2024-11-24 12:51:43,644 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
